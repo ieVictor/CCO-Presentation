@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from '@/components/ui/button';
 import { CheckCircle } from 'lucide-react';
+import { Button } from './ui/button';
 
 interface Video {
   title: string;

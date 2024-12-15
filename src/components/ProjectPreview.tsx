@@ -1,4 +1,4 @@
-import HomeImage from '@assets/HomeImage.png';
+import HomeImage from '../assets/HomeImage.png';
 import Image from 'next/image';
 import { Card, CardHeader, CardTitle, CardContent } from './ui/card';
 

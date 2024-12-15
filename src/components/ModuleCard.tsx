@@ -1,11 +1,11 @@
+import { Button } from './ui/button';
 import {
   Card,
   CardHeader,
   CardTitle,
   CardDescription,
   CardContent,
-} from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
+} from './ui/card';
 
 interface ModuleCardProps {
   title: string;

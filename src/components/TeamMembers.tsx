@@ -1,6 +1,6 @@
 import { Github } from 'lucide-react';
-import teamMembers from 'src/models/teamMembers';
 import { Card, CardHeader, CardTitle, CardContent } from './ui/card';
+import teamMembers from '../models/teamMembers';
 
 export default function TeamMembers() {
   return (

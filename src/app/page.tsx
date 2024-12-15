@@ -1,16 +1,16 @@
-import Footer from 'src/components/Footer';
-import Header from 'src/components/Header';
-import ModuleCard from 'src/components/ModuleCard';
-import ProjectPreview from 'src/components/ProjectPreview';
-import TeamMembers from 'src/components/TeamMembers';
-import VideoList from 'src/components/VideoList';
-import modules from 'src/models/modules';
+import Footer from '../components/Footer';
+import Header from '../components/Header';
+import ModuleCard from '../components/ModuleCard';
+import ProjectPreview from '../components/ProjectPreview';
+import TeamMembers from '../components/TeamMembers';
+import VideoList from '../components/VideoList';
+import modules from '../models/modules';
 import {
   htmlVideos,
   cssVideos,
   javascriptVideos,
   projectVideos,
-} from 'src/models/projectVideos';
+} from '../models/projectVideos';
 
 export default function Home() {
   return (

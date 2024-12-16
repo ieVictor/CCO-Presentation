@@ -2,7 +2,8 @@ const modules = [
   {
     title: 'HTML',
     description: 'Fundamentos de HTML',
-    videoUrl: '#html-video',
+    videoUrl:
+      'https://youtube.com/playlist?list=PL8jVIbD46UN0hXEj7kddCxLEZrUk-pGxp&si=94VSsfM9MlJLvzB_',
     materialUrl:
       'https://github.com/ieVictor/AS64C-2024-2/tree/main/materiais/html',
   },

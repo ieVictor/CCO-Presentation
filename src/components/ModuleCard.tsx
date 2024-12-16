@@ -6,6 +6,7 @@ import {
   CardContent,
 } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
+import { Github, Youtube } from 'lucide-react';
 
 interface ModuleCardProps {
   title: string;
@@ -30,12 +31,14 @@ export default function ModuleCard({
         <div className="flex gap-1">
           <Button asChild>
             <a href={videoUrl} target="_blank" rel="noopener noreferrer">
+              <Youtube size={16} />
               Acessar playlist
             </a>
           </Button>
           <Button asChild>
             <a href={materialUrl} target="_blank" rel="noopener noreferrer">
-              Materiais
+              <Github size={16} />
+              Acessar código fonte das aulas
             </a>
           </Button>
         </div>

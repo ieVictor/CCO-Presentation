@@ -82,27 +82,31 @@ const cssVideos = [
     url: 'https://www.youtube.com/watch?v=rL2_0uDZIDE&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=2&pp=iAQB',
   },
   {
-    title: 'Aula 2',
+    title: 'Aula 2 - Modelo de Box e Display',
     url: 'https://www.youtube.com/watch?v=aPSaqdtL7mE&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=3&pp=iAQB',
   },
   {
-    title: 'Aula 3 PT1',
+    title: 'Aula 3 - Posicionamento e Flexbox | Parte 1',
     url: 'https://www.youtube.com/watch?v=oKh78gGmM2w&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=4&pp=iAQB',
   },
   {
-    title: 'Aula 4',
+    title: 'Aula 3 - Posicionamento e Flexbox | Parte 2',
+    url: 'https://www.youtube.com/watch?v=XjForKDbOas&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=5',
+  },
+  {
+    title: 'Aula 4 - Design Responsivo',
     url: 'https://www.youtube.com/watch?v=j4hUUnvNKN8&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=5&pp=iAQB',
   },
   {
-    title: 'Aula 5',
+    title: 'Aula 5 - Pseudo-classes e Animações',
     url: 'https://www.youtube.com/watch?v=CQbM4Mrpa4g&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=6&pp=iAQB',
   },
   {
-    title: 'Aula 6',
+    title: 'Aula 6 - Grid Layout',
     url: 'https://www.youtube.com/watch?v=IjnpO9aNpOs&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=7&pp=iAQB',
   },
   {
-    title: 'Aula 7',
+    title: 'Aula 7 - Temas e Variáveis',
     url: 'https://www.youtube.com/watch?v=IvSaztbaoFo&list=PLcsy8l2Ye9fIZm5Kithe16yPCT2uQZfDh&index=8&pp=iAQB',
   },
 ];

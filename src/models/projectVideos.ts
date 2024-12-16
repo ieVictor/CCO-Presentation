@@ -35,6 +35,14 @@ const projectVideos = [
     title: 'Aula 9 - Sexta seção',
     url: 'https://www.youtube.com/watch?v=tC3hxQ7JCYU&list=PLQroKvT4FIAtRsQx2Vjd-vtl3aRSl_rFi&index=9',
   },
+  {
+    title: 'Aula 10 - Footer',
+    url: 'https://youtu.be/QKMmEUxznQA',
+  },
+  {
+    title: 'Aula 11 - Formulário',
+    url: 'https://youtu.be/25Ir6IPoX_w',
+  },
 ];
 
 const javascriptVideos = [
